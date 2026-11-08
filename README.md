@@ -1,5 +1,6 @@
 # picocalc-mixed-nuts
-An assortment of various programs written for the ClockworkPi PicoCalc! (MMBASIC &amp; MicroPython)
+An assortment of various programs written for the ClockworkPi PicoCalc! (MMBASIC)
+I also am keeping track of all my other picocalc projects here. 
 
 **My System:**
 - Clockwork Pi's PicoCalc (got here: https://www.clockworkpi.com/picocalc)
