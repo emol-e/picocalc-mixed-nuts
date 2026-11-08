@@ -1,0 +1,9 @@
+- combat sim (1 v 1, team v team)
+- char gen (roll stats, manual input, 
+  adjust rolls, rnd gear or roll gp to
+  buy gear)
+- txt game (basic)
+- txt game (adv)
+- get RTC
+- get temp/hum sensr
+- 
