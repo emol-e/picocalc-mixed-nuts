@@ -30,7 +30,6 @@ An assortment of various programs written for the ClockworkPi PicoCalc! (MMBASIC
 The program was originally written in TI-BASIC 83, so the structure of this program is a bit different now that it's in MMBasic.
 Examples I can think of: Lack of the Menu(Option,Goto) function, Lack of the STO key used for storing variables, Loops are written different in MMBasic, 
 using Print instead of using Output(X,Y,str), etc. 
-
 I plan to add to the game now that I've got this basic archival version, and maybe will make a simulation for the Menu() command, we'll see. 
 
 
