@@ -32,7 +32,7 @@ Examples I can think of: Lack of the Menu(Option,Goto) function, Lack of the STO
 I plan to add to the game and maybe make a simulation for the Menu() command, we'll see. 
 
 
-**RANDINT.BAS **
+**RANDINT.BAS**
 Subroutine to mimic python's randint(x,y) command. Saved to my Library.
 
 **ROLLFUNC.BAS**
