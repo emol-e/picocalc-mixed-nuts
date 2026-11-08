@@ -6,7 +6,10 @@ An assortment of various programs written for the ClockworkPi PicoCalc! (MMBASIC
 - Raspberry Pi Pico 2W (got here: https://www.pishop.ca/product/raspberry-pi-pico-2w-with-header)
 - 32GB SD Card as 'Drive B:'
 - Currently Running: WebMite MMBasic RP350A Edition V6.03.00 (got it here: https://geoffg.net/picomite.html // & also here: https://github.com/UKTailwind/PicoMite/releases/tag/PicoMite-V6.03.00)
-- My System Options/Settings: (file will be linked here)
+
+**My System Options/Settings:**
+[out.bmp](https://github.com/user-attachments/files/34540064/out.bmp)
+
 
 **Hardware Modifications:** (In Planning Phases, nothing completed yet and parts still unpurchased)
   - Add an RTC (probably this one https://www.amazon.ca/Mixse-DS3231-AT24C32-Precision-Arduino/dp/B076QH37SL/)
